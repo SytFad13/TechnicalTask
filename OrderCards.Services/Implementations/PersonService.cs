@@ -1,9 +1,7 @@
-﻿using Microsoft.AspNetCore.Cryptography.KeyDerivation;
-using OrderCards.DAL.Abstractions;
+﻿using OrderCards.DAL.Abstractions;
 using OrderCards.Domain.PersonModels;
 using OrderCards.Services.Abstractions;
 using OrderCards.Services.Models;
-using System.Security.Cryptography;
 
 namespace OrderCards.Services.Implementations
 {
@@ -32,11 +30,20 @@ namespace OrderCards.Services.Implementations
 			return personResponseModels;
 		}
 
-		public async Task<Person> GetByIdAsync(int id)
+		public async Task<PersonResponseModel> GetByIdAsync(int id)
 		{
 			var person = await _personRepo.GetByIdAsync(id);
 
-			return person;
+			var personResponseModel = new PersonResponseModel()
+			{
+				PersonId = person.PersonId,
+				FirstName = person.FirstName,
+				LastName = person.LastName,
+				Email = person.Email,
+				Password = person.Password
+			};
+
+			return personResponseModel;
 		}
 
 		public async Task<Person> GetByModelAsync(LoginModel model)
@@ -54,27 +61,12 @@ namespace OrderCards.Services.Implementations
 
 		public async Task<Person> CreateAsync(RegisterModel model)
 		{
-			byte[] salt = new byte[128 / 8];
-			using (var rngCsp = RandomNumberGenerator.Create())
-			{
-				rngCsp.GetNonZeroBytes(salt);
-			}
-
-			string hashed = Convert.ToBase64String(KeyDerivation.Pbkdf2(
-			    password: model.Password,
-			    salt: salt,
-			    prf: KeyDerivationPrf.HMACSHA256,
-			    iterationCount: 100000,
-			    numBytesRequested: 256 / 8));
-
-
 			Person person = new()
 			{
-				PersonId = model.Id,
 				FirstName = model.FirstName,
 				LastName = model.LastName,
 				Email = model.Email,
-				Password = hashed,
+				Password = model.Password,
 			};
 
 			await _personRepo.CreateAsync(person);

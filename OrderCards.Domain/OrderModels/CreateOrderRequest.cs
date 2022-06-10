@@ -7,7 +7,6 @@ namespace OrderCards.Domain.OrderModels
 	{
 		private DateTime _orderDate;
 		[Key]
-		public int OrderId { get; set; }
 		public DateTime OrderDate
 		{
 			get

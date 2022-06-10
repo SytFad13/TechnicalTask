@@ -28,18 +28,26 @@ namespace OrderCards.Services.Implementations
 			return orderResponseModels;
 		}
 
-		public async Task<Order> GetByIdAsync(int id)
+		public async Task<OrderResponseModel> GetByIdAsync(int id)
 		{
 			var order = await _orderRepo.GetByIdAsync(id);
 
-			return order;
+			var orderResponseModel = new OrderResponseModel()
+			{
+				OrderId = order.OrderId,
+				OrderDate = order.OrderDate,
+				DeliveryDate = order.DeliveryDate,
+				Address = order.Address,
+				PhoneNumber = order.PhoneNumber
+			};
+
+			return orderResponseModel;
 		}
 
 		public async Task<Order> CreateAsync(CreateOrderRequest request)
 		{
 			Order order = new()
 			{
-				OrderId = request.OrderId,
 				OrderDate = request.OrderDate,
 				DeliveryDate = request.DeliveryDate,
 				Address = request.Address,
