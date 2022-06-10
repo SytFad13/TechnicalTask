@@ -1,0 +1,17 @@
+C:\vsprojects\TechnicalTask\OrderCards.DAL\bin\Debug\net6.0\OrderCards.DAL.deps.json
+C:\vsprojects\TechnicalTask\OrderCards.DAL\bin\Debug\net6.0\OrderCards.DAL.dll
+C:\vsprojects\TechnicalTask\OrderCards.DAL\bin\Debug\net6.0\OrderCards.DAL.pdb
+C:\vsprojects\TechnicalTask\OrderCards.DAL\bin\Debug\net6.0\OrderCards.Domain.dll
+C:\vsprojects\TechnicalTask\OrderCards.DAL\bin\Debug\net6.0\OrderCards.PersistenceDB.dll
+C:\vsprojects\TechnicalTask\OrderCards.DAL\bin\Debug\net6.0\OrderCards.Domain.pdb
+C:\vsprojects\TechnicalTask\OrderCards.DAL\bin\Debug\net6.0\OrderCards.PersistenceDB.pdb
+C:\vsprojects\TechnicalTask\OrderCards.DAL\obj\Debug\net6.0\OrderCards.DAL.csproj.AssemblyReference.cache
+C:\vsprojects\TechnicalTask\OrderCards.DAL\obj\Debug\net6.0\OrderCards.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\vsprojects\TechnicalTask\OrderCards.DAL\obj\Debug\net6.0\OrderCards.DAL.AssemblyInfoInputs.cache
+C:\vsprojects\TechnicalTask\OrderCards.DAL\obj\Debug\net6.0\OrderCards.DAL.AssemblyInfo.cs
+C:\vsprojects\TechnicalTask\OrderCards.DAL\obj\Debug\net6.0\OrderCards.DAL.csproj.CoreCompileInputs.cache
+C:\vsprojects\TechnicalTask\OrderCards.DAL\obj\Debug\net6.0\OrderCards.DAL.csproj.CopyComplete
+C:\vsprojects\TechnicalTask\OrderCards.DAL\obj\Debug\net6.0\OrderCards.DAL.dll
+C:\vsprojects\TechnicalTask\OrderCards.DAL\obj\Debug\net6.0\refint\OrderCards.DAL.dll
+C:\vsprojects\TechnicalTask\OrderCards.DAL\obj\Debug\net6.0\OrderCards.DAL.pdb
+C:\vsprojects\TechnicalTask\OrderCards.DAL\obj\Debug\net6.0\ref\OrderCards.DAL.dll

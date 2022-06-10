@@ -1,0 +1,17 @@
+C:\vsprojects\TechnicalTask\OrderCards.PersistenceDB\bin\Debug\net6.0\OrderCards.PersistenceDB.deps.json
+C:\vsprojects\TechnicalTask\OrderCards.PersistenceDB\bin\Debug\net6.0\OrderCards.PersistenceDB.dll
+C:\vsprojects\TechnicalTask\OrderCards.PersistenceDB\bin\Debug\net6.0\OrderCards.PersistenceDB.pdb
+C:\vsprojects\TechnicalTask\OrderCards.PersistenceDB\bin\Debug\net6.0\OrderCards.Domain.dll
+C:\vsprojects\TechnicalTask\OrderCards.PersistenceDB\bin\Debug\net6.0\OrderCards.Domain.pdb
+C:\vsprojects\TechnicalTask\OrderCards.PersistenceDB\obj\Debug\net6.0\OrderCards.PersistenceDB.csproj.AssemblyReference.cache
+C:\vsprojects\TechnicalTask\OrderCards.PersistenceDB\obj\Debug\net6.0\OrderCards.PersistenceDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\vsprojects\TechnicalTask\OrderCards.PersistenceDB\obj\Debug\net6.0\OrderCards.PersistenceDB.AssemblyInfoInputs.cache
+C:\vsprojects\TechnicalTask\OrderCards.PersistenceDB\obj\Debug\net6.0\OrderCards.PersistenceDB.AssemblyInfo.cs
+C:\vsprojects\TechnicalTask\OrderCards.PersistenceDB\obj\Debug\net6.0\OrderCards.PersistenceDB.csproj.CoreCompileInputs.cache
+C:\vsprojects\TechnicalTask\OrderCards.PersistenceDB\obj\Debug\net6.0\OrderCards.PersistenceDB.csproj.CopyComplete
+C:\vsprojects\TechnicalTask\OrderCards.PersistenceDB\obj\Debug\net6.0\OrderCards.PersistenceDB.dll
+C:\vsprojects\TechnicalTask\OrderCards.PersistenceDB\obj\Debug\net6.0\refint\OrderCards.PersistenceDB.dll
+C:\vsprojects\TechnicalTask\OrderCards.PersistenceDB\obj\Debug\net6.0\OrderCards.PersistenceDB.pdb
+C:\vsprojects\TechnicalTask\OrderCards.PersistenceDB\obj\Debug\net6.0\ref\OrderCards.PersistenceDB.dll
+C:\vsprojects\TechnicalTask\OrderCards.PersistenceDB\bin\Debug\net6.0\OrderCards.PersistenceDB.runtimeconfig.json
+C:\vsprojects\TechnicalTask\OrderCards.PersistenceDB\obj\Debug\net6.0\OrderCards.PersistenceDB.genruntimeconfig.cache

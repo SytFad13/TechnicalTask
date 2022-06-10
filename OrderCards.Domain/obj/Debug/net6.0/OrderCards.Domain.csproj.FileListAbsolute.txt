@@ -1,0 +1,12 @@
+C:\vsprojects\TechnicalTask\OrderCards.Domain\bin\Debug\net6.0\OrderCards.Domain.deps.json
+C:\vsprojects\TechnicalTask\OrderCards.Domain\bin\Debug\net6.0\OrderCards.Domain.dll
+C:\vsprojects\TechnicalTask\OrderCards.Domain\bin\Debug\net6.0\OrderCards.Domain.pdb
+C:\vsprojects\TechnicalTask\OrderCards.Domain\obj\Debug\net6.0\OrderCards.Domain.csproj.AssemblyReference.cache
+C:\vsprojects\TechnicalTask\OrderCards.Domain\obj\Debug\net6.0\OrderCards.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\vsprojects\TechnicalTask\OrderCards.Domain\obj\Debug\net6.0\OrderCards.Domain.AssemblyInfoInputs.cache
+C:\vsprojects\TechnicalTask\OrderCards.Domain\obj\Debug\net6.0\OrderCards.Domain.AssemblyInfo.cs
+C:\vsprojects\TechnicalTask\OrderCards.Domain\obj\Debug\net6.0\OrderCards.Domain.csproj.CoreCompileInputs.cache
+C:\vsprojects\TechnicalTask\OrderCards.Domain\obj\Debug\net6.0\OrderCards.Domain.dll
+C:\vsprojects\TechnicalTask\OrderCards.Domain\obj\Debug\net6.0\refint\OrderCards.Domain.dll
+C:\vsprojects\TechnicalTask\OrderCards.Domain\obj\Debug\net6.0\OrderCards.Domain.pdb
+C:\vsprojects\TechnicalTask\OrderCards.Domain\obj\Debug\net6.0\ref\OrderCards.Domain.dll
